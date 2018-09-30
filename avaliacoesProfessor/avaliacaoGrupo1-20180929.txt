@@ -1,0 +1,17 @@
+1 - Todos os artefatos de documentação textual, gerem uma versão PDF, antes de commitarem no repositório. Desta forma solicito que atualizem os documentos de requisitos e o documento de visão do projeto.
+2 - Retirar do documento de visão tudo o que não fizer parte do projeto do grupo. Tudo o que se referia como exemplo do template deve ser alterado para o que diz respeito ao projeto ou deletado, caso o projeto não tenha nenhuma informação correspondente.
+3 - A partir da atual versão do documento de visão não dá pra saber qual é a finalidade do sistema. Este documento deve descrever o que é o sistema, nome, objetivos, escopo, requisitos, etc.
+4 - Sugestão: distribua o conteúdo do arquivo 201602514_RAFAEL BORGES.pdf nas seções do documento de visão. Depois disto, pode remover este arquivo 201602514_RAFAEL BORGES.pdf do repositório.
+5 - Não alterar a formatação do template. No documento postado não consta o cabeçalho da primeira página. Mantenha-o com informações pertinentes do projeto do grupo.
+6 - A nominação dos arquivos de casos de uso ainda não está padronizada. O formato dos nomes dos casos de uso CSU02 e CSU05 está diferente dos demais.
+7 - Ainda existem arquivos cujos nomes possuem acentos: exemplos: CSU01 e CSU05. Procurar sem existem outros e corrigir.
+8 - A redação da documentação dos casos de uso não está boa. Exemplo: O administrador acessa a base de dados de usuários, então seleciona um ou mais usuários e define a quais aplicações o sistema permitirá acesso sob login do(s) usuário(s) selecionados.
+	8.1 como ele acessa a base de dados de usuários?
+	8.2 como ele seleciona um ou mais usuários?
+	8.3 como ele define as aplicações.
+
+Estas ações devem estar descritas no documento, pois em breve iremos elaborar diagramas de sequencias que são as representações gráficas dos passos necessários para se realizar um caso de uso.
+9. Existem também algumas observações sobre o diagrama de classes, mas falo disso com vocês na próxima aula.
+
+ 
+
